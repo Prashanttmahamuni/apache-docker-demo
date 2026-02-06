@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project demonstrates how to containerize a basic Apache HTTP server using Docker. The container serves two custom HTML pages — `home.html` and `about.html` — making it a simple yet effective example of deploying static web content via Docker.
-
+    
 ---
 
 ## 🧰 Technology Stack
